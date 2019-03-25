@@ -26,9 +26,9 @@ def get_long_description():
 
 
 setup(
-    name=ttpy,
+    name=package_name,
     version=get_version(),
-    author='reorx',
+    author='ravi',
     author_email='ravipathak.de@gmail.com',
     description='test python snap',
     url='https://github.com/ravipath/testpythonsnapping.git',
