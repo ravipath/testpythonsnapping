@@ -16,6 +16,6 @@ setup(
     url='https://github.com/ravipath/testpythonsnapping.git',
     scripts=['printhello.py']
     #long_description=get_long_description(),
-    py_modules=[package_name],
+    #py_modules=[package_name],
     license='License :: OSI Approved :: MIT License',
 )
